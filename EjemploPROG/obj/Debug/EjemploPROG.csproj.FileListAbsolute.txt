@@ -1,0 +1,17 @@
+c:\users\lucho\documents\visual studio 2013\Projects\EjemploPROG\EjemploPROG\bin\Debug\EjemploPROG.exe.config
+c:\users\lucho\documents\visual studio 2013\Projects\EjemploPROG\EjemploPROG\bin\Debug\EjemploPROG.exe
+c:\users\lucho\documents\visual studio 2013\Projects\EjemploPROG\EjemploPROG\bin\Debug\EjemploPROG.pdb
+c:\users\lucho\documents\visual studio 2013\Projects\EjemploPROG\EjemploPROG\obj\Debug\EjemploPROG.csprojResolveAssemblyReference.cache
+c:\users\lucho\documents\visual studio 2013\Projects\EjemploPROG\EjemploPROG\obj\Debug\EjemploPROG.Form1.resources
+c:\users\lucho\documents\visual studio 2013\Projects\EjemploPROG\EjemploPROG\obj\Debug\EjemploPROG.Properties.Resources.resources
+c:\users\lucho\documents\visual studio 2013\Projects\EjemploPROG\EjemploPROG\obj\Debug\EjemploPROG.csproj.GenerateResource.Cache
+c:\users\lucho\documents\visual studio 2013\Projects\EjemploPROG\EjemploPROG\obj\Debug\EjemploPROG.exe
+c:\users\lucho\documents\visual studio 2013\Projects\EjemploPROG\EjemploPROG\obj\Debug\EjemploPROG.pdb
+C:\Users\alpal\Downloads\EjemploPROG\EjemploPROG\EjemploPROG\bin\Debug\EjemploPROG.exe.config
+C:\Users\alpal\Downloads\EjemploPROG\EjemploPROG\EjemploPROG\obj\Debug\EjemploPROG.exe
+C:\Users\alpal\Downloads\EjemploPROG\EjemploPROG\EjemploPROG\obj\Debug\EjemploPROG.pdb
+C:\Users\alpal\Downloads\EjemploPROG\EjemploPROG\EjemploPROG\obj\Debug\EjemploPROG.Form1.resources
+C:\Users\alpal\Downloads\EjemploPROG\EjemploPROG\EjemploPROG\obj\Debug\EjemploPROG.Properties.Resources.resources
+C:\Users\alpal\Downloads\EjemploPROG\EjemploPROG\EjemploPROG\obj\Debug\EjemploPROG.csproj.GenerateResource.Cache
+C:\Users\alpal\Downloads\EjemploPROG\EjemploPROG\EjemploPROG\bin\Debug\EjemploPROG.exe
+C:\Users\alpal\Downloads\EjemploPROG\EjemploPROG\EjemploPROG\bin\Debug\EjemploPROG.pdb
